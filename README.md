@@ -5,12 +5,12 @@ Inspired by Francesco
 
 ## Requirements
 
-Arch: `python-gobject`
-Ubuntu: `sudo apt-get install gir1.2-rsvg-2.0 python3-cairo python-gi-cairo python3-gi`
+Arch: `python-gobject`  
+Ubuntu: `sudo apt-get install gir1.2-rsvg-2.0 python3-cairo python-gi-cairo python3-gi`  
 
 ## Shortcuts
 
-`r` = Reverse
-`+`, `-` = Change FPS
-`CTRL` + `+`, `CTRL` + `-` = Change cat resolution
+`r` = Reverse  
+`+`, `-` = Change FPS  
+`CTRL` + `+`, `CTRL` + `-` = Change cat resolution  
 
